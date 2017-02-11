@@ -2,4 +2,4 @@
 Library for testing analyzing complexity and run-time efficiency of different implementation of polynomials in C++.
 
 # License
-See LICENSE file.
+See [license](LICENSE) file.
