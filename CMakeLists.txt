@@ -3,7 +3,6 @@
 
 cmake_minimum_required (VERSION 2.6)
 project (Polynomial)
-add_executable(Polynomial.cxx)
 
 # The version number.
 set (Polynomial_VERSION_MAJOR 0)
