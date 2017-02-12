@@ -11,3 +11,6 @@ set (Polynomial_VERSION_MINOR 1)
 include_directories(include)
 file(GLOB SOURCES "src/*.cpp")
 add_executable(polynomial ${SOURCES})
+
+enable_testing()
+add_subdirectory(test)
